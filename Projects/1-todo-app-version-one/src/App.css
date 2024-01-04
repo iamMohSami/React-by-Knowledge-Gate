@@ -1,0 +1,16 @@
+* {
+  background-color: #f8f4e3;
+}
+
+.head {
+  border: 0.2rem solid black;
+  color: #4867f2;
+}
+
+input {
+  width: 50%;
+}
+
+.mybtn {
+  min-width: 80px;
+}
